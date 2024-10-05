@@ -42,3 +42,4 @@ while True:
 
     if sair == 's':
         break
+	#arthur esteve aqui
